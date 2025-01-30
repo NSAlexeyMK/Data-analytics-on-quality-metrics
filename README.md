@@ -5,11 +5,12 @@ LLC “HF Labs”.
 
 The name of the project:
 Analytics of data on quality metrics (with visualization).
-Project:
 Project complexity level: 
 Educational and applied
+
 Type of activity: 
 Engineering
+
 Source of the project application: 
 custom
 

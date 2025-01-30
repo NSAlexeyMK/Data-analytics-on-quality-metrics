@@ -20,12 +20,9 @@ custom
 The following software was used: 
 
 1.	Python programming language;
-2.	
-3.	Database query language: SQL;
-4.	
-5.	Data visualization software: Tableau Public. 3;
-6.	
-7.	Database of your choice, e.g. PostgreSQL (main), SQLite (tests); database client : Dbeaver.
+2.	Database query language: SQL;
+3.	Data visualization software: Tableau Public. 3;
+4.	Database of your choice, e.g. PostgreSQL (main), SQLite (tests); database client : Dbeaver.
 
 
 

@@ -24,6 +24,26 @@ The following software was used:
 3.	Data visualization software: Tableau Public. 3;
 4.	Database of your choice, e.g. PostgreSQL (main), SQLite (tests); database client : Dbeaver.
 
+The customer's problem:
+The complexities of analyzing customer data.
 
+
+Project Objective:
+Build a report on the quality of customer data.
+
+
+Data Features:
+
+- Multi-million dollar base
+- Different sources
+- There may be anomaly errors in the data
+
+
+Solvable Challenges:
+
+- Competently identify “card” individuals (relying on data quality and availability) 
+- Identify sources of dirty data
+- Select metrics and visualize them
+- Check for anomalies
 
 ![image](https://github.com/user-attachments/assets/ba2b960b-c5f5-47b5-b0af-d97ea9a5b824)
